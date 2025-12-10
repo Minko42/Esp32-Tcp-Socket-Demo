@@ -1,0 +1,14 @@
+*.class
+*.exe
+*.o
+
+.vscode/
+
+.DS_Store
+Thumbs.db
+
+client/JavaClient/config.properties
+
+firmware/build/
+
+firmware/ESP32Server/secrets.h
